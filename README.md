@@ -31,11 +31,18 @@ A wearable assistive device designed to enhance spatial awareness for visually i
 ```
 
 obstacle-detection-gloves/
-├── hardware/           # Circuit diagrams and component list
-├── firmware/           # Arduino code (.ino)
-├── docs/               # System overview and design notes
-├── test/               # Sensor calibration and range testing
-└── results/            # Feedback from initial user trials
+├── README.md                 # Project overview and setup instructions
+├── firmware/
+│   └── glove_code.ino        # Arduino Nano code for sensor + motor logic
+├── hardware/
+│   ├── circuit_diagram.png   # Wiring layout (to be added)
+│   └── components.md         # List of electronic parts used
+├── docs/
+│   └── system_overview.md    # Technical explanation of how the glove works
+├── test/
+│   └── sensor_range_test.md  # Calibration notes and test results
+└── results/
+    └── user_feedback.md      # Summary of user trials and usability insights
 ```
 
 
