@@ -66,9 +66,9 @@ obstacle-detection-gloves/
 ---
 
 ## 🧠 Inspiration
-
+```
 This project was inspired by the need for accessible, low-cost assistive technology. By combining simple electronics with thoughtful design, it aims to empower visually impaired individuals with greater independence and confidence.
 ```
 
----
+
 
