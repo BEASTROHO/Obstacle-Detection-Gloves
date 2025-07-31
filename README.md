@@ -1,4 +1,3 @@
-##OBSTACLE DETECTION GLOVES------------------------
 # 🧤 Obstacle Detection Gloves
 
 A wearable assistive device designed to enhance spatial awareness for visually impaired users. Using ultrasonic sensors and an Arduino Nano, the gloves detect nearby obstacles and provide haptic feedback through vibration motors — enabling safer, more confident navigation. 🚶‍♂️✨
