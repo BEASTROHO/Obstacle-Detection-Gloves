@@ -34,7 +34,7 @@
 ---
 
 ## 🖼️ Suggested Fritzing Layout
----
+
 [Arduino Nano]
 ├── D2  → Trig (Left Ultrasonic Sensor)
 ├── D3  → Echo (Left Ultrasonic Sensor)
@@ -46,7 +46,7 @@
 ├── GND → GND (All Components)
 └── VIN → 9V Battery (+)
      └── GND → 9V Battery (–)
----
+
 
 ---
 
