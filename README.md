@@ -26,7 +26,7 @@ A wearable assistive device designed to enhance spatial awareness for visually i
 
 
 ---
-```
+
 ## 📁 Project Structure
 ```
 
@@ -37,8 +37,8 @@ obstacle-detection-gloves/
 ├── test/               # Sensor calibration and range testing
 └── results/            # Feedback from initial user trials
 ```
-```
-```
+
+
 
 
 
