@@ -26,10 +26,9 @@ A wearable assistive device designed to enhance spatial awareness for visually i
 - 🧪 Sensor calibration for accurate range detection
 
 ---
-
-## 📁 Project Structure
-
 ```
+```
+## 📁 Project Structure
 obstacle-detection-gloves/
 ├── hardware/           # Circuit diagrams and component list
 ├── firmware/           # Arduino code (.ino)
@@ -37,6 +36,9 @@ obstacle-detection-gloves/
 ├── test/               # Sensor calibration and range testing
 └── results/            # Feedback from initial user trials
 ```
+```
+```
+
 
 ---
 
