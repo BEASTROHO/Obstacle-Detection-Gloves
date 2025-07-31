@@ -35,8 +35,17 @@
 
 ## 🖼️ Suggested Fritzing Layout
 ---
-[Arduino Nano] ├─ D2 → Trig (Left Sensor) ├─ D3 → Echo (Left Sensor) ├─ D4 → Motor (Left) ├─ D5 → Trig (Right Sensor) ├─ D6 → Echo (Right Sensor) ├─ D7 → Motor (Right) ├─ 5V → VCC (Sensors + Motors) └─ GND → GND (All components)
-[9V Battery] → VIN + GND
+[Arduino Nano]
+├── D2  → Trig (Left Ultrasonic Sensor)
+├── D3  → Echo (Left Ultrasonic Sensor)
+├── D4  → Motor (Left Vibration)
+├── D5  → Trig (Right Ultrasonic Sensor)
+├── D6  → Echo (Right Ultrasonic Sensor)
+├── D7  → Motor (Right Vibration)
+├── 5V  → VCC (Both Sensors + Motors)
+├── GND → GND (All Components)
+└── VIN → 9V Battery (+)
+     └── GND → 9V Battery (–)
 ---
 
 ---
