@@ -18,7 +18,7 @@ A wearable assistive device designed to enhance spatial awareness for visually i
 ---
 
 ## 🎯 Features
-
+---
 - 📍 Real-time obstacle detection
 - ✋ Compact, wearable glove design
 - 🔁 Haptic feedback via vibration motors
@@ -27,8 +27,9 @@ A wearable assistive device designed to enhance spatial awareness for visually i
 
 ---
 ```
-```
 ## 📁 Project Structure
+```
+
 obstacle-detection-gloves/
 ├── hardware/           # Circuit diagrams and component list
 ├── firmware/           # Arduino code (.ino)
@@ -40,9 +41,10 @@ obstacle-detection-gloves/
 ```
 
 
----
+
 
 ## 🚀 Getting Started
+---
 
 1. Clone the repo:
    ```bash
